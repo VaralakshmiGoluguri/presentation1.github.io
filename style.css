@@ -10,6 +10,9 @@ body{
     background-attachment:right top;
     background-position:fixed;
 }
+span{
+    color:red;
+}
 .learnings{
     height:400px;
     width:100%;
